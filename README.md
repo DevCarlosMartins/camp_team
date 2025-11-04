@@ -1,4 +1,4 @@
-# camp_team
+# Camp Team
 
 Crie um sistema que seja capaz de registrar inúmeros Times presentes em um ou mais Campeonatos simultânetos.
 
